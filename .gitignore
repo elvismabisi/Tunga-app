@@ -1,0 +1,12 @@
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets (if any at root)
+.env
+.env.local
+*.local
